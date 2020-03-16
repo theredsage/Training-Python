@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="230" />
+    <option name="myElementSize" value="234" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -24,10 +24,40 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestExample">
+      <favorite_root url="file://$PROJECT_DIR$" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/TestExample.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/inspectionProfiles" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/numparser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/.pytest_cache" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/v" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/v/cache" module="TestExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/v/cache/stepwise" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.pytest_cache/CACHEDIR.TAG" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/test_parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Setup Script" />
       </list>
     </option>
   </component>
@@ -39,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRemote Host.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -46,13 +77,16 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/GIT" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_parser.py">
+  <component name="RunManager" selected="Python.numparser">
     <configuration name="numparser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -90,6 +124,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numparser" />
         <item itemvalue="Python tests.pytest in test_parser.py" />
         <item itemvalue="Python.numparser" />
       </list>
@@ -107,6 +142,8 @@
       <updated>1584324121492</updated>
       <workItem from="1584324124486" duration="2030000" />
       <workItem from="1584326668404" duration="1373000" />
+      <workItem from="1584331867960" duration="2248000" />
+      <workItem from="1584334210053" duration="818000" />
     </task>
     <servers />
   </component>
@@ -118,10 +155,10 @@
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
     <state x="3975" y="621" width="800" height="684" key="#Editor_|_Color_Scheme_|_General/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327727322" />
-    <state x="3840" y="1084" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584327472072">
+    <state x="3840" y="1084" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584333292560">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state x="3840" y="1084" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327472072" />
+    <state x="3840" y="1084" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333292560" />
     <state x="3940" y="1032" width="880" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584325591473">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
@@ -130,49 +167,54 @@
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
     <state x="4054" y="1032" width="641" height="795" key="#pytest_in_test_parser.py/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584324657734" />
-    <state width="1034" height="1050" key="GridCell.Tab.0.bottom" timestamp="1584327740543">
+    <state width="1034" height="686" key="GridCell.Tab.0.bottom" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="1050" key="GridCell.Tab.0.bottom/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327740543" />
-    <state width="1034" height="1050" key="GridCell.Tab.0.center" timestamp="1584327740542">
+    <state width="1034" height="686" key="GridCell.Tab.0.bottom/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.0.center" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="1050" key="GridCell.Tab.0.center/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327740542" />
-    <state width="1034" height="1050" key="GridCell.Tab.0.left" timestamp="1584327740542">
+    <state width="1034" height="686" key="GridCell.Tab.0.center/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.0.left" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="1050" key="GridCell.Tab.0.left/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327740542" />
-    <state width="1034" height="1050" key="GridCell.Tab.0.right" timestamp="1584327740542">
+    <state width="1034" height="686" key="GridCell.Tab.0.left/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.0.right" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="1050" key="GridCell.Tab.0.right/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584327740542" />
-    <state width="1034" height="314" key="GridCell.Tab.1.bottom" timestamp="1584325122284">
+    <state width="1034" height="686" key="GridCell.Tab.0.right/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.1.bottom" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="314" key="GridCell.Tab.1.bottom/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584325122284" />
-    <state width="1034" height="314" key="GridCell.Tab.1.center" timestamp="1584325122284">
+    <state width="1034" height="686" key="GridCell.Tab.1.bottom/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.1.center" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="314" key="GridCell.Tab.1.center/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584325122284" />
-    <state width="1034" height="314" key="GridCell.Tab.1.left" timestamp="1584325122284">
+    <state width="1034" height="686" key="GridCell.Tab.1.center/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.1.left" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="314" key="GridCell.Tab.1.left/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584325122284" />
-    <state width="1034" height="314" key="GridCell.Tab.1.right" timestamp="1584325122284">
+    <state width="1034" height="686" key="GridCell.Tab.1.left/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state width="1034" height="686" key="GridCell.Tab.1.right" timestamp="1584333828735">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state width="1034" height="314" key="GridCell.Tab.1.right/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584325122284" />
-    <state x="3869" y="1061" width="1022" height="737" key="SettingsEditor" timestamp="1584325912090">
+    <state width="1034" height="686" key="GridCell.Tab.1.right/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333828735" />
+    <state x="3869" y="1061" width="1022" height="737" key="SettingsEditor" timestamp="1584333570711">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
-    <state x="3869" y="1061" width="1022" height="737" key="SettingsEditor/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584325912090" />
+    <state x="3869" y="1061" width="1022" height="737" key="SettingsEditor/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584333570711" />
     <state x="4162" y="612" width="426" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584326364738">
       <screen x="3840" y="0" width="1080" height="1920" />
     </state>
     <state x="4162" y="612" width="426" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584326364738" />
+    <state x="4031" y="687" width="698" height="546" key="find.popup" timestamp="1584337350883">
+      <screen x="3840" y="0" width="1080" height="1920" />
+    </state>
+    <state x="4031" y="687" width="698" height="546" key="find.popup/0.27.3840.2100/3840.0.1080.1920@3840.0.1080.1920" timestamp="1584337350883" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestExample$numparser.coverage" NAME="numparser Coverage Results" MODIFIED="1584333804387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestExample$pytest_for_test_parser_test_basic.coverage" NAME="pytest for test_parser.test_basic Coverage Results" MODIFIED="1584324316221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestExample$pytest_in_test_parser_py.coverage" NAME="pytest in test_parser.py Coverage Results" MODIFIED="1584327740534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestExample$pytest_in_test_parser_py.coverage" NAME="pytest in test_parser.py Coverage Results" MODIFIED="1584332651043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

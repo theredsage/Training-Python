@@ -16,3 +16,6 @@ def test_dash():
 def test_bad():
     with pytest.raises(ValueError):
         parse('bad')
+
+
+#TODO - create testing for this cool new function!
